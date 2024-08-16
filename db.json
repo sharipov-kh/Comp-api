@@ -1,0 +1,149 @@
+{
+  "computerComponents": [
+    {
+      "id": "1",
+      "subCategory": "Компьютерные комплектующие",
+      "name": "Материнские платы",
+      "path": "Motherboards",
+      "imageUrl": "./../../public/category/Motherboards.png",
+      "products": [
+        {
+          "id": "1",
+          "newCard": false,
+          "subCategory": "Компьютерные комплектующие",
+          "category": "Материнские платы",
+          "name": "Материнская плата ASUS PRIME B560M-A",
+          "oldPrice": 2200,
+          "newPrice": 1800,
+          "rating": 4.5,
+          "imageUrl": "./../../public/ProductCardIMG/1.png",
+          "characteristics": [
+            {
+              "name": "Чипсет:",
+              "property": "Intel B560"
+            },
+            {
+              "name": "Поддержка процессоров:",
+              "property": "Intel 10-го и 11-го поколения"
+            },
+            {
+              "name": "Форм-фактор:",
+              "property": "Micro-ATX"
+            },
+            {
+              "name": "Количество слотов RAM:",
+              "property": "4"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "newCard": true,
+          "subCategory": "Компьютерные комплектующие",
+          "category": "Материнские платы",
+          "name": "Материнская плата MSI MAG B550 TOMAHAWK",
+          "oldPrice": 2500,
+          "newPrice": 2000,
+          "rating": 4.8,
+          "imageUrl": "./../../public/ProductCardIMG/2.png",
+          "characteristics": [
+            {
+              "name": "Чипсет:",
+              "property": "AMD B550"
+            },
+            {
+              "name": "Поддержка процессоров:",
+              "property": "AMD Ryzen 3000/4000/5000"
+            },
+            {
+              "name": "Форм-фактор:",
+              "property": "ATX"
+            },
+            {
+              "name": "Поддержка PCIe 4.0:",
+              "property": "Да"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "subCategory": "Компьютерные комплектующие",
+      "name": "Процессоры",
+      "path": "Proccecor",
+      "imageUrl": "../../../public/category/proccecor.png",
+      "products": [
+        {
+          "id": "1",
+          "newCard": true,
+          "subCategory": "Компьютерные комплектующие",
+          "category": "Процессоры",
+          "name": "Процессор Intel Core i7-11700K",
+          "oldPrice": 3200,
+          "newPrice": 2900,
+          "rating": 4.7,
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51AqEkc2BuL._AC_UL165_SR165,165_.jpg",
+          "characteristics": [
+            {
+              "name": "Количество ядер:",
+              "property": "8"
+            },
+            {
+              "name": "Тактовая частота:",
+              "property": "3.6 ГГц"
+            },
+            {
+              "name": "Макс. тактовая частота:",
+              "property": "5.0 ГГц"
+            },
+            {
+              "name": "TDP:",
+              "property": "125 Вт"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "monitor": [
+    {
+      "id": "1",
+      "subCategory": "Мониторы",
+      "name": "Samsung",
+      "path": "Samsung",
+      "imageUrl": "https://www.thriftysigns.com/wp-content/uploads/2020/04/Samsung-Logo.jpg",
+      "products": [
+        {
+          "id": "1",
+          "newCard": true,
+          "subCategory": "Мониторы",
+          "category": "Samsung",
+          "name": "Samsung 34\" Монитор Odyssey G7",
+          "oldPrice": 3000,
+          "newPrice": 2600,
+          "rating": 4.9,
+          "imageUrl": "https://m.media-amazon.com/images/I/61r-XPKCzKL.jpg",
+          "characteristics": [
+            {
+              "name": "Диагональ экрана:",
+              "property": "34 дюйма"
+            },
+            {
+              "name": "Разрешение:",
+              "property": "3440x1440"
+            },
+            {
+              "name": "Частота обновления:",
+              "property": "144 Гц"
+            },
+            {
+              "name": "Тип матрицы:",
+              "property": "VA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
